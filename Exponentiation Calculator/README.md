@@ -1,6 +1,6 @@
 # Exponentiation Calculator
 
-This project implements a serverless application for exponentiation using **AWS Amplify**, **API Gateway**, **Lambda**, **DynamoDB**, and **IAM**.
+This project implements a serverless application for exponentiation using **AWS Amplify**, **API Gateway**, **Lambda**, **DynamoDB**, and **IAM**. It is my beginner-level AWS Project.
 
 ---
 
