@@ -33,6 +33,10 @@ This project implements a serverless application for exponentiation using **AWS 
 - Deployed the frontend website code using **AWS Amplify**, which handles hosting, domain management, and scaling automatically.  
 ![Amplify Deployment](https://github.com/user-attachments/assets/df9b21f6-270d-4b11-b4c5-4fb3bb53beee)
 
+![Website](https://github.com/user-attachments/assets/0082aca1-f1f9-4d4e-9d98-e04079232914)
+
+![Website Result](https://github.com/user-attachments/assets/d863fb8d-8f4e-4812-ac02-13224004bc61)
+
 ---
 
 ### 2. API Gateway: RESTful Endpoint Creation
