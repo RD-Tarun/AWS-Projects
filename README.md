@@ -1,6 +1,6 @@
 # AWS Projects
 
-### A comprehensive collection of projects that demonstrate the use of Amazon Web Services (AWS) across various domains and technologies. Each project showcases specific AWS services, architecture designs, and implementation strategies to solve real-world challenges or build innovative solutions.
+### A comprehensive collection of projects that demonstrate the use of Amazon Web Services (AWS) across various domains and technologies. Each project showcases specific AWS services, architecture designs, and implementation strategies to demonstrate my expertise in using AWS Services.
 
 ---
 
